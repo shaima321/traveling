@@ -1,0 +1,414 @@
+@charset "UTF-8";
+.container {
+	width: 1100px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#headingThree1 .mb-0 .collapsed {
+	color: hsla(0,0%,0%,1.00);
+	text-decoration: none;
+	font-weight: bold;
+	border: 4px double hsla(0,0%,0%,1.00);
+}
+body {
+	background-image: url(images/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9.jpg);
+	background-repeat: no-repeat;
+	background-size: 155% 110%;
+}
+nav {
+	color: hsla(0,0%,100%,1.00);
+	text-align: center;
+	background-color: hsla(0,0%,0%,1.00);
+	margin-left: -128px;
+	margin-right: -120px;
+	margin-top: -11px;
+}
+nav a {
+	color: hsla(0,0%,100%,1.00);
+	text-align: center;
+	font-weight: bold;
+	margin-left: 28px;
+	font-size: 24px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	text-decoration: none;
+}
+.container .header {
+	height: 118px;
+}
+#headingOne1 .mb-0 a {
+	font-weight: bold;
+	color: hsla(0,0%,0%,1.00);
+}
+.M {
+	color: hsla(0,0%,100%,1.00);
+	font-family: Noto Nastaliq Urdu;
+	text-align: right;
+	font-size: 40px;
+	padding-left: 18px;
+	padding-right: 0px;
+	margin-right: -648px;
+}
+#headingTwo1 .mb-0 .collapsed {
+	color: hsla(0,0%,0%,1.00);
+	font-size: 30px;
+	font-weight: bold;
+	text-decoration: none;
+}
+#headingOne2 .mb-0 a {
+	color: hsla(0,0%,0%,1.00);
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+}
+#collapseOne2 .card-body ul {
+	font-weight: bold;
+}
+.container .header #accordion1 {
+	background-color: hsla(0,0%,0%,1.00);
+	color: hsla(0,0%,0%,1.00);
+	margin-top: 100px;
+	margin-bottom: 100px;
+	font-weight: bold;
+	text-decoration: none;
+}
+#headingOne1 .mb-0 a {
+	color: hsla(0,0%,0%,1.00);
+}
+body {
+	text-decoration: none;
+}
+#headingTwo1 .mb-0 .collapsed {
+	color: hsla(0,0%,0%,1.00);
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+.collapsed {
+}
+.container footer {
+	background-color: hsla(0,0%,0%,1.00);
+	width: 1331px;
+	height: 315px;
+	margin-left: -116px;
+	padding-top: 0px;
+	margin-bottom: -76px;
+	margin-top: 147px;
+	padding-right: 34px;
+	margin-right: 28px;
+	padding-left: 30px;
+}
+.container footer .hhh {
+	color: hsla(0,0%,100%,1.00);
+	font-size: 35px;
+	text-align: right;
+}
+.container footer img {
+	width: 46px;
+	padding-left: 0px;
+	margin-right: -3px;
+	padding-top: 0px;
+	margin-left: 10px;
+}
+.container footer .T {
+	margin-left: 8px;
+	width: 83px;
+	margin-bottom: 23px;
+	padding-left: 0px;
+	padding-top: 31px;
+}
+.container footer .I {
+	width: 69px;
+	margin-bottom: 33px;
+	padding-top: 354px;
+	margin-top: -267px;
+	margin-left: 5px;
+}
+.container footer .F {
+	width: 69px;
+	margin-bottom: 28px;
+	margin-left: 13px;
+	padding-top: 65px;
+	margin-top: 19px;
+	padding-left: 0px;
+	margin-right: 14px;
+}
+.container footer .A {
+	font-size: 35px;
+	color: hsla(0,0%,100%,1.00);
+	text-align: right;
+	margin-top: -136px;
+	background-color: hsla(0,0%,0%,1.00);
+}
+.container footer .B {
+	font-size: 35px;
+	color: hsla(0,0%,100%,1.00);
+	text-align: right;
+	margin-top: -44px;
+	background-color: hsla(0,0%,0%,1.00);
+}
+.container footer .B {
+}
+#headingTwo1 .mb-0 .collapsed {
+	font-weight: bold;
+	color: hsla(0,0%,0%,1.00);
+}
+.card #collapseTwo1 .card-body {
+	color: hsla(0,0%,0%,1.00);
+	font-weight: bold;
+}
+#headingThree1 .mb-0 .collapsed {
+	color: hsla(0,0%,0%,1.00);
+	font-weight: bold;
+}
+.card #collapseThree1 .card-body {
+	color: hsla(0,0%,0%,1.00);
+	font-weight: bold;
+}
+.container #carouselExampleIndicators1 {
+	padding-top: 73px;
+	padding-right: 73px;
+	padding-bottom: 73px;
+	padding-left: 73px;
+	margin-top: 183px;
+}
+.container #carouselExampleIndicators2 {
+	margin-top: 63px;
+	padding-top: 73px;
+	padding-right: 73px;
+	padding-bottom: 73px;
+	padding-left: 73px;
+}
+.container footer .B {
+	margin-top: 1px;
+	background-color: hsla(0,0%,0%,1.00);
+}
+.container .jumbotron {
+	opacity: 1;
+}
+.container .jumbotron .lead {
+	margin-left: 50px;
+}
+.container .jumbotron {
+	padding-top: 80px;
+	padding-right: 80px;
+	padding-bottom: 80px;
+	padding-left: 80px;
+	margin-top: 81px;
+	margin-right: 160px;
+	margin-left: -87px;
+	opacity: 0.75;
+	margin-bottom: 113px;
+}
+.container .jumbotron h1 {
+	color: hsla(0,0%,0%,1.00);
+	font-weight: bold;
+	font-size: 50px;
+	text-align: left;
+}
+.container .jumbotron p {
+	text-align: center;
+	font-size: 21px;
+	background-color: hsla(0,0%,0%,1.00);
+}
+.container .U {
+	text-align: center;
+	font-weight: bold;
+	color: hsla(0,0%,0%,1.00);
+}
+.container video {
+	text-align: center;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin-left: 40px;
+	margin-top: 105px;
+}
+.container #carouselExampleIndicators1 {
+	padding-top: 41px;
+	padding-right: 41px;
+	padding-bottom: 41px;
+	padding-left: 41px;
+}
+.carousel-inner .carousel-item.active .d-block.mx-auto {
+	width: 1000px;
+	height: 800px;
+	padding-top: 41px;
+	padding-right: 41px;
+	padding-bottom: 41px;
+	padding-left: 41px;
+}
+.container .jumbotron p2 {
+	color: hsla(0,0%,0%,1.00);
+	font-size: 28px;
+}
+.container .V {
+	font-weight: bold;
+	text-align: center;
+	margin-top: 142px;
+	border: 8px double hsla(0,0%,0%,1.00);
+	background-color: hsla(0,0%,100%,1.00);
+}
+.container .X {
+	text-align: right;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 15px;
+	margin-left: 923px;
+	margin-top: 60px;
+	width: 109px;
+	margin-bottom: 3px;
+	padding-top: 0px;
+	margin-right: 0px;
+}
+.container .E {
+	color: hsla(0,0%,0%,1.00);
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: -11px;
+	margin-bottom: -28px;
+	margin-left: 4px;
+	margin-right: -1px;
+	padding-top: 6px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+	background-color: hsla(0,0%,100%,1.00);
+	text-align: center;
+}
+.container .c {
+	padding-left: 96px;
+	width: 168px;
+	margin-left: 851px;
+	padding-bottom: 7px;
+	margin-bottom: 19px;
+	margin-top: 96px;
+}
+.container .P {
+	font-size: 36px;
+	font-weight: bold;
+	background-color: hsla(0,0%,100%,1.00);
+	margin-top: -85px;
+	text-align: center;
+	margin-left: 4px;
+	margin-right: -1px;
+}
+.container .k {
+	font-size: 36px;
+	font-weight: bold;
+	color: hsla(0,0%,0%,1.00);
+	text-align: center;
+	margin-top: -96px;
+	margin-left: 2px;
+	margin-right: -4px;
+	margin-bottom: -141px;
+	background-color: hsla(0,0%,100%,1.00);
+	padding-top: 13px;
+	padding-right: 13px;
+	padding-bottom: 13px;
+	padding-left: 13px;
+}
+.container img {
+	width: 50px;
+	margin-left: 966px;
+	margin-bottom: 464px;
+	margin-top: 48px;
+}
+.container .bB {
+	font-size: 36px;
+	font-weight: bold;
+	color: hsla(0,0%,0%,1.00);
+	text-align: center;
+	background-color: hsla(0,0%,100%,1.00);
+	margin-top: -515px;
+	margin-left: -2px;
+	margin-right: -8px;
+	margin-bottom: 175px;
+}
+.container .Nb {
+	background-color: hsla(0,0%,100%,1.00);
+	color: hsla(0,0%,0%,1.00);
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	margin-right: -8px;
+	margin-left: -2px;
+	margin-bottom: 188px;
+	margin-top: -176px;
+}
+.container .mm {
+	background-color: hsla(0,0%,100%,1.00);
+	color: hsla(0,0%,0%,1.00);
+	font-weight: bold;
+	margin-top: 136px;
+	font-size: 20px;
+	margin-left: 2px;
+	margin-right: -4px;
+	text-align: center;
+}
+.container footer .B {
+	background-color: hsla(0,0%,0%,1.00);
+}
+.container .jumbotron .vc {
+	color: hsla(0,0%,0%,1.00);
+	background-color: hsla(0,0%,100%,1.00);
+	opacity: 0.75;
+}
+.container .jumbotron .yy {
+	color: hsla(0,0%,0%,1.00);
+	background-color: hsla(0,0%,100%,1.00);
+}
+.container .jumbotron {
+	background-color: hsla(0,0%,100%,1.00);
+	opacity: 0.75;
+}
+.carousel-inner .carousel-item .d-block.mx-auto {
+	padding-top: 41px;
+	padding-right: 41px;
+	padding-bottom: 41px;
+	padding-left: 41px;
+	margin-top: -68px;
+	margin-bottom: -68px;
+}
+.container #carouselExampleIndicators2 {
+	padding-top: 41px;
+	padding-right: 41px;
+	padding-bottom: 41px;
+	padding-left: 41px;
+}
+.card #collapseThree1 .card-body {
+	text-align: left;
+}
+ul li a {
+	color: hsla(0,0%,0%,1.00);
+}
+.mb-0 .collapsed ul {
+	color: hsla(0,0%,0%,1.00);
+	font-weight: normal;
+}
+#headingOne3 .mb-0 a {
+	color: hsla(0,0%,0%,1.00);
+}
+#headingTwo1 .mb-0 .collapsed {
+	color: hsla(0,0%,0%,1.00);
+}
+.container #accordion1 {
+}
+.container .fd {
+	width: 600px;
+	height: 500px;
+	margin-left: 224px;
+	margin-top: -85px;
+}
+.container .jumbotron {
+	margin-left: -3px;
+}
+.header nav .M {
+}
+footer a .A {
+	padding-top: 37px;
+	margin-top: 13px;
+}
+#collapseOne1 ul li {
+	color: hsla(0,0%,0%,1.00);
+}

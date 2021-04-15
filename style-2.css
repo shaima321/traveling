@@ -1,0 +1,11 @@
+@charset "UTF-8";
+footer a .T {
+	padding-left: 90px;
+	padding-bottom: 0px;
+}
+footer a .I {
+	padding-bottom: 5px;
+	width: 138px;
+}
+footer a .F {
+}
